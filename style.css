@@ -1,0 +1,15 @@
+.bg-2 {
+    background-color: #F496D1;
+}
+
+.hot {
+    background-color: red;
+    display: inline;
+    color: white;
+    font-weight: 700;
+    padding: 5px 10px;
+    border-radius: 20px;
+    position: absolute;
+    top: -20px;
+    right: 20px;
+}
