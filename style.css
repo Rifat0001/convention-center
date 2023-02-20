@@ -15,5 +15,13 @@
 }
 
 footer {
-    height: 10vw;
+    height: 100%;
+}
+
+@media screen and (max-width:576px) {
+    .footer {
+        flex-direction: column-reverse;
+        line-height: 50px;
+        justify-content: center;
+    }
 }
